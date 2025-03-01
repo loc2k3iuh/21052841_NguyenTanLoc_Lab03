@@ -1,4 +1,4 @@
-package org.example;
+package org.example.singleton;
 
 public class EagerInitializedSingleton {
     private static final EagerInitializedSingleton instance = new EagerInitializedSingleton();
